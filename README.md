@@ -2,6 +2,9 @@
 ## 👋 Hi, I'm  Jay — Software Development Azubi @ OTTO.de
 - 🔨 Currently building: job listings aggregator, ingredient scanner app
 -  🌍 Based in Germany | EN native | DE Verhandlungssicher
+-  💡 I rotate through different engineering teams every few months -
+   so far: BI & data engineering, backend payment receipts, SAP, and full-stack e-commerce.
+
 
 
 <!--
