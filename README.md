@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm  Jay — Software Development Azubi @ OTTO.de
-## 🔨 Currently building: job listings aggregator, ingredient scanner app
-## 🌍 Based in Germany | EN native | DE Verhandlungssicher
+- 🔨 Currently building: job listings aggregator, ingredient scanner app
+-  🌍 Based in Germany | EN native | DE Verhandlungssicher
 
 
 <!--
