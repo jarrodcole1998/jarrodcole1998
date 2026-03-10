@@ -8,12 +8,6 @@ Software Development Azubi @ [OTTO](https://www.otto.de) · Hamburg, Germany
 
 💡 I rotate through different engineering teams every few months -
    so far: BI & data engineering, backend payment receipts, SAP, and full-stack e-commerce.
-
-<img 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=jarrodcole1998&layout=compact&theme=dracula&langs_c
-  ount=6&hide_border=true" 
-     alt="Most used languages"
-   />
 <!--
 **jarrodcole1998/jarrodcole1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
