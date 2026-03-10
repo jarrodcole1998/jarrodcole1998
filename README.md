@@ -1,4 +1,8 @@
-## Hi there 👋
+
+👋 Hi, I'm  Jay — Software Development Azubi @ OTTO.de
+🔨 Currently building: job listings aggregator, ingredient scanner app
+🌍 Based in Germany | EN native | DE Verhandlungssicher
+
 
 <!--
 **jarrodcole1998/jarrodcole1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
