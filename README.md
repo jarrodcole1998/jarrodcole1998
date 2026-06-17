@@ -7,7 +7,7 @@ Software Development Azubi @ [OTTO](https://www.otto.de) · Hamburg, Germany
 🌍 Based in Germany | EN native | DE Verhandlungssicher
 
 💡 I rotate through different engineering teams every few months -
-   so far: BI & data engineering, backend payment receipts, SAP, full-stack e-commerce $ Data Infrastructure Automation
+   so far: BI & data engineering, backend payment receipts, SAP, full-stack e-commerce & Data Infrastructure Automation
 <!--
 **jarrodcole1998/jarrodcole1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
