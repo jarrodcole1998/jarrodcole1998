@@ -2,12 +2,12 @@
 ## 👋 Hi, I'm  Jay 
 Software Development Azubi @ [OTTO](https://www.otto.de) · Hamburg, Germany
 
-🔨 Currently building: job listings aggregator, ingredient scanner app
+🔨 Currently building: G.I.P - Git Impact Profiler
 
 🌍 Based in Germany | EN native | DE Verhandlungssicher
 
 💡 I rotate through different engineering teams every few months -
-   so far: BI & data engineering, backend payment receipts, SAP, and full-stack e-commerce.
+   so far: BI & data engineering, backend payment receipts, SAP, full-stack e-commerce $ Data Infrastructure Automation
 <!--
 **jarrodcole1998/jarrodcole1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
